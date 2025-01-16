@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mitchelltnd
-- 👀 I’m interested in web Development and Python programming
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on front end design projects
+- 👀 I’m interested in Cyber Security and Web Development
+- 💞️ I’m looking to collaborate on front-end design projects
 - 📫 How to reach me - mitchell1tnd@gmail.com
 
 <!---
